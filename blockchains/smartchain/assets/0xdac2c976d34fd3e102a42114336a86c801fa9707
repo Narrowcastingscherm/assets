@@ -1,0 +1,11 @@
+{
+    "name": "Narrowcastingscreen",
+    "type": "BEP20",
+    "symbol": "NCS",
+    "decimals": 12,
+    "website": "https://ncscrypto.online/",
+    "description": "NCS is a token that is fully driven by the community and with the company Narrowcastingscherm.nl it will go onwards to create beautiful apps for narrowcasting solutions..\n",
+    "explorer": "https://bscscan.com/address/0xdac2c976d34fd3e102a42114336a86c801fa9707",
+    "status": "active",
+    "id": "0x6e9a33dfeecd70011257428291ccf48c418cc298"
+}
